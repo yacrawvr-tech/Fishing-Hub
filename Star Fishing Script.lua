@@ -39,9 +39,9 @@ local Rayfield = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local Window = Rayfield:CreateWindow({
     Name             = "Auto Star Fishing",
     Icon             = "fish",
-    LoadingTitle     = "Auto Star Fishing",
+    LoadingTitle     = "Fishing Hub",
     LoadingSubtitle  = "By Yacraw",
-    ShowText         = "AutoFish",
+    ShowText         = "Fishing Hub",
     Theme            = "Amethyst",
     ToggleUIKeybind  = "K",
 
